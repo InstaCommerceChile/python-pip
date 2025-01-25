@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi repositorio de proyectos en Python! Aquí encontrarás una colección de proyectos desarrollados para aprender, experimentar y resolver diferentes problemas utilizando Python. 🌟🐍
 
-## 🚀 Cómo Ejecutar los Proyectos
+## 🚀 Cómo ejecutar los proyectos
 
 1. Asegúrate de tener Python 3.x instalado en tu sistema.
 
