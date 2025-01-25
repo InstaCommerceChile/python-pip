@@ -10,7 +10,7 @@
 cd nombre-proyecto
 
 3. Clona este repositorio:
-git clone git@github.com:tu-usuario/nombre-repositorio.git .
+git@github.com:InstaCommerceChile/python-pip.git .
 
 4. Ejecuta el script principal del proyecto:
 python main.py
