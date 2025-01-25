@@ -14,3 +14,13 @@ git@github.com:InstaCommerceChile/python-pip.git .
 
 4. Ejecuta el script principal del proyecto:
 python main.py
+
+## Game proyect
+
+Para correr este juego debes seguir las siguientes instrucciones.
+
+Para correr el juego debes seguir las siguientes instrucciones en la terminal:
+
+```sh
+cd game
+python3 main.py
